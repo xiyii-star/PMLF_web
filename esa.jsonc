@@ -1,6 +1,5 @@
 {
-    "name": "vite-react-template",
-    "entry": "./src/index.js",
+    "name": "evonarrator-web",
     "assets": {
       "directory": "./test",
       "notFoundStrategy": "singlePageApplication"
