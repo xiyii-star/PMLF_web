@@ -1,0 +1,8 @@
+{
+    "name": "vite-react-template",
+    "entry": "./src/index.js",
+    "assets": {
+      "directory": "/home/lexy/桌面/EvoNarrator _web/test/test_visualization_papers_en_new.html",
+      "notFoundStrategy": "singlePageApplication"
+    }
+  }
