@@ -1,7 +1,7 @@
 {
     "name": "evonarrator-web",
     "assets": {
-      "directory": "./test",
+      "directory": "./dist",
       "notFoundStrategy": "singlePageApplication"
     }
   }
